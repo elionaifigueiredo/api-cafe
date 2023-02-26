@@ -3,12 +3,11 @@
    "descricao":"Cafe da Tuca",
     "tipo":{
       "nome":"Pão",
-      "imagem":"TODO"
-    },
+      "imagem":"https://static-images.ifood.com.br/image/upload/t_high/pratos/e5b92351-201b-4b24-a1fc-7fba4b5ea2b6/202112182115_F328_i.jpg"
     
    "detalhe":{
     "nome":"Pão com queijo",
-     "imagem":"TODO"
+     "imagem":"https://i.pinimg.com/originals/9f/27/a2/9f27a2084ca70911f3d17221163909b0.jpg"
    },  
   }
 ]
