@@ -1,1 +1,14 @@
-
+[
+  {
+   "descricao":"Cafe da Tuca",
+    "tipo":{
+      "nome":"Pão",
+      "imagem";"TODO"
+    },
+    
+   "detalhe":{
+    "nome":"Pão com queijo",
+     "imagem":"TODO"
+   },  
+  }
+]
